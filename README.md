@@ -4,10 +4,10 @@ For this exercise, the class was instructed to form groups of **four**.
 
 Our group's members are:
 
-- Zachary Cushman
-- Michael Moore
-- Amanda Rolfe
--  [Adrian Santos](https://github.com/gigodata)
+- [Zachary Cushman](https://github.com/zqcushma)
+- [Michael Moore](https://github.com/Mackshow)
+- [Amanda Rolfe](https://github.com/ARolfe86)
+- [Adrian Santos](https://github.com/gigodata)
 
 ----
 
