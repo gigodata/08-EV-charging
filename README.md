@@ -15,14 +15,14 @@ Our group's members are:
 
 
 ### v0.2 - 2023-11-02
-- Update README.MD:  :sparkles: - Add version control for iterations
+- Update README.md:  :sparkles: - Add version control for iterations
 - Update Keynote presentation: :chart_with_downwards_trend: - Create '**Update**' slide template  for project tracking
 - Consolodate code from branches: Send first iteration to **main** :twisted_rightwards_arrows: to create file.
 
 ----
 
 ### v0.1 - 2023-11-01      
-- Update README.MD  :sparkles: - Create professional README
+- Update README.md  :sparkles: - Create professional README
 - Apply better formatting in MARKDOWN. :boom:
 - Create Keynote presentation for group :chart_with_downwards_trend:
 - Create Jupyter notebook to import & scrub dataset, resulting in clean DataFrame.  :file_folder:
