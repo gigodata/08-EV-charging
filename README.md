@@ -15,9 +15,9 @@ Our group's members are:
 
 
 ### v0.2 - 2023-11-02
-- Update README.MD  :sparkles: - Add version control for iterations
-- Update Keynote presentation :chart_with_downwards_trend: - Create '**Update**' slide template  for project tracking
-- Consolodate code from branches to create update to **main** :twisted_rightwards_arrows:
+- Update README.MD:  :sparkles: - Add version control for iterations
+- Update Keynote presentation: :chart_with_downwards_trend: - Create '**Update**' slide template  for project tracking
+- Consolodate code from branches: Send first iteration to **main** :twisted_rightwards_arrows: to create file.
 
 ----
 
