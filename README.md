@@ -7,7 +7,7 @@ Our group's members are:
 - Zachary Cushman
 - Michael Moore
 - Amanda Rolfe
-- Adrian Santos
+-  [Adrian Santos](https://github.com/gigodata)
 
 ----
 
