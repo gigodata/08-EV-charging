@@ -6,8 +6,7 @@ config.py
 
 ##May remove this line later on, if we can upload the dataset
 flight_edges.tsv
-8minuteMayhem
-bigCleanData.csv
+clean_data_ym_load.csv
 ##May remove this line later on, if we can upload the dataset
 
 # C extensions
