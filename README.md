@@ -13,6 +13,15 @@ Our group's members are:
 
 <h1 style="color:MediumVioletRed; text-decoration: underline;">Updates & Version Control:</h1>
 
+### v10 - 2023-11-06
+- Update README.md:  :sparkles: - Add version control for iterations
+- Update Keynote presentation: :chart_with_downwards_trend: - Create '**Update**' slide template  for project tracking
+- Consolodate code from branches: Send first iteration to **main** :twisted_rightwards_arrows: to create file.
+- Finalise self-running presentation as movie
+- Upload PDF of presentation
+
+----
+
 
 ### v0.2 - 2023-11-02
 - Update README.md:  :sparkles: - Add version control for iterations
@@ -30,4 +39,4 @@ Our group's members are:
 
 ----
 
-- Updated 2023-11-02
+- Updated 2023-11-06
